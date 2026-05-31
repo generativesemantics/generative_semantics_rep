@@ -1,2 +1,1 @@
-# generative_semantics_rep
-Documntation of Generative semantics
+[FULL context](/GS_GCE_ERD.pdf)
